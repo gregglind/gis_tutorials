@@ -9,8 +9,8 @@ We use projections because the Earth basically approximates an ellipsoid. Howeve
 There are 3 main types of projections:
 
   * Equal Area Projections - preserve the area of features by assigning them an area on the map that is proportional to their area on the Earth
-  *Conformal Projections - preserve the shape of small features and show directions correctly (i.e. State Plane projections)
-  *Equidistant Projections - preserve distances to places from one or two points
+  * Conformal Projections - preserve the shape of small features and show directions correctly (i.e. State Plane projections)
+  * Equidistant Projections - preserve distances to places from one or two points
 
 ## Determining a Projection
 
